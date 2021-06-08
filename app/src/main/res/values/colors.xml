@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lightgray">#C7C7C7</color>
+    <color name="darkgray">#646464</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="clr_1">#EA7D68</color>
+    <color name="clr_2">#B2DE66</color>
+    <color name="clr_3">#72C4E5</color>
+    <color name="clr_4">#7DA7E6</color>
+    <color name="clr_5">#CE71EA</color>
+    <color name="clr_6">#DF7188</color>
+    <color name="clr_7">#8CE1A1</color>
+    <color name="clr_0">#E8D97A</color>
+</resources>
